@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtributoEnumeradores", "AtributoEnumeradores\AtributoEnumeradores.csproj", "{0DC58AAF-46AC-481C-B8CD-00688985DDF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC58AAF-46AC-481C-B8CD-00688985DDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC58AAF-46AC-481C-B8CD-00688985DDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC58AAF-46AC-481C-B8CD-00688985DDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC58AAF-46AC-481C-B8CD-00688985DDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA8732E-AD82-41E8-9AC7-E82AB889002A}
+	EndGlobalSection
+EndGlobal
